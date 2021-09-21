@@ -16,9 +16,12 @@
       "type": "string",
       "required": true
     },
-    "content": {
+    "body": {
       "type": "richtext",
       "required": true
+    },
+    "url": {
+      "type": "string"
     }
   }
 }
